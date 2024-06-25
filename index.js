@@ -5,7 +5,7 @@
         if (isNumberN % i === 0) {
        flag = 0;
           console.log ('Число составное!');
-          break;i +=1;
+          break;
         }
       }
       if (flag == 1)  
